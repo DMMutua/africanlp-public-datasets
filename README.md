@@ -34,6 +34,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - Congolese Swahili-French ([Min](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-swc-fra/),[Small](https://gamayun.translatorswb.org/download/gamayun-small-kit-10k-swc-fra/),[Medium](https://gamayun.translatorswb.org/download/gamayun-medium-kit-15k-chunk-1-2-swc-fra/)): Congolese Swahili-French parallel text datasets (Free registration required).
 
+- [Swahili Text-to-Speech(TTS)](https://data.mendeley.com/datasets/rbn6nmygcn/1) Dataset: 1.5K+ Kiswahili text-audio pairs. Suitable for TTS model development.
+
 - [Swahili-French](https://gamayun.translatorswb.org/download/monosw-fr/): A synthetic Swahili-French parallel text dataset (Free registration required).
 
 - English-Hausa ([Min](https://gamayun.translatorswb.org/download/gamayun-5k-english-hausa/), [Small](https://gamayun.translatorswb.org/download/gamayun-small-kit-10k-hausa-english/)): English-Hausa parallel text datasets (Free registration required).
